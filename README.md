@@ -19,4 +19,4 @@ Trzeba było dodać do taska QEMU i skonfigurować architektury pod które buduj
 BuildKit automatycznie wspiera wieloetapowe budowanie obrazów. Przykładowy dockerfile na którym można przetestować działanie tego mechanizmu to `Dockerfile.zad2`, który został wykorzystany. Nie było potrzeby modyfikowania githubowej akcji (poza zmianą taga i nazwy dockerfile'a), więc została wykorzystana akcja z zadania 1.
 
 Action file: [`docker_build_3.yml`](./.github/workflows/docker_build_3.yml)
-wynik działania akcji: <>
+wynik działania akcji: <https://github.com/SteelPh0enix/docker_proj_2/actions/runs/1771679708>
