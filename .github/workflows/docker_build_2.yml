@@ -37,4 +37,4 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: steelph0enix/z2:t1
-          platforms: linux/amd64 linux/arm64/v8 linux/arm/v7
+          platforms: linux/amd64, linux/arm64/v8, linux/arm/v7
